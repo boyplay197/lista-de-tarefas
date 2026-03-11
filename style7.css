@@ -1,0 +1,22 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    margin: 10px;
+}
+
+.concluida{
+    text-decoration: line-through;
+    color: gray;
+}
+
+.naoConcluida{
+    color: black;
+}
